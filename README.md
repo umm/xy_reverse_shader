@@ -9,7 +9,7 @@ XY Reverse Shaders is uGUI Shader for reverse x, y axis.
 ## Install
 
 ```shell
-yarn add "umm/xy\_reverse\_shaders#^1.0.0"
+yarn add "umm/xy_reverse_shader#^1.0.0"
 ```
 
 ## Examples
