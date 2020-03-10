@@ -1,0 +1,17 @@
+{
+  "name": "dev.upm-packages.xy-reverse-shader",
+  "displayName": "XY Reverse Shader",
+  "version": "1.0.0",
+  "unity": "2019.3",
+  "description": "uGUI xy axis reverse shader",
+  "author": "mattak",
+  "license": "MIT",
+  "keywords": [],
+  "category": "",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umm/xy_reverse_shader"
+  }
+}
